@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Documentation Starter Kit",
+  "name": "WebWorks Studios",
   "logo": {
-    "dark": "/logo/dark.png",
-    "light": "/logo/light.png"
+    "dark": "https://webworksstudios.tech/ircd.png",
+    "light": "https://webworksstudios.tech/ircd.png"
   },
-  "favicon": "/favicon.png",
+  "favicon": "https://webworksstudios.tech/ircd.png",
   "colors": {
     "primary": "#0069ED",
     "light": "#4D9CFF",
@@ -14,52 +14,41 @@
   "topbarLinks": [
     {
       "name": "Documentation",
-      "url": "https://mintlify.com/docs"
+      "url": "webworksstudios-20.mintlify.app"
     }
   ],
   "topbarCtaButton": {
     "name": "Get Started",
-    "url": "https://github.com/mintlify/starter"
+    "url": "https://webworksstudios.tech/#plans"
   },
   "anchors": [
     {
-      "name": "API Reference",
-      "icon": "rectangle-terminal",
-      "url": "api-reference"
+      "name": "Customisation",
+      "icon": "pen",
+      "url": "customisation"
     },
     {
-      "name": "Changelog",
-      "icon": "list",
-      "url": "https://mintlify.com"
+      "name": "Features",
+      "icon": "circle-check",
+      "url": "features"
     },
-    {
-      "name": "Community",
-      "icon": "discord",
-      "url": "https://mintlify.com/community"
-    }
   ],
   "navigation": [
     {
       "group": "Home",
-      "pages": ["introduction", "features"]
+      "pages": ["welcome", "features"]
     },
     {
-      "group": "API Documentation",
-      "pages": ["api-reference/authentication"]
+      "group": "Customisation",
+      "pages": ["customisation/customisation"]
     },
     {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/update",
-        "api-reference/endpoint/delete"
-      ]
-    }
+      "group": "Features",
+      "pages": ["features/features"]
+    },
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "globe": "https://webworksstudios.tech",
+    "github": "https://github.com/webworksstudios",
   }
 }
