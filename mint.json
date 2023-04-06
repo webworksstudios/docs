@@ -14,7 +14,7 @@
   "topbarLinks": [
     {
       "name": "Documentation",
-      "url": "webworksstudios-20.mintlify.app"
+      "url": "https://webworksstudios-20.mintlify.app"
     }
   ],
   "topbarCtaButton": {
@@ -31,7 +31,7 @@
       "name": "Features",
       "icon": "circle-check",
       "url": "features"
-    },
+    }
   ],
   "navigation": [
     {
