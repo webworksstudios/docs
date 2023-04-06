@@ -56,6 +56,6 @@
     "github": "https://github.com/webworksstudios"
   },
   "backgroundImage": {
-    "url": ["images/gradientBackground.png"]
+    "url": "images/gradientBackground.png"
   }
 }
