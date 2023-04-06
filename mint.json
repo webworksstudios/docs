@@ -40,15 +40,15 @@
     },
     {
       "group": "Customisation",
-      "pages": ["customisation/customisation"]
+      "pages": "customisation/customisation"
     },
     {
       "group": "Features",
-      "pages": ["features/features"]
+      "pages": "features/features"
     },
     {
       "group": "Adding and Editing",
-      "pages": ["additions/additions"]
+      "pages": "additions/additions"
     }
   ],
   "footerSocials": {
