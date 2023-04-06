@@ -46,6 +46,10 @@
       "group": "Features",
       "pages": ["features/features"]
     },
+    {
+      "group": "Adding and Editing
+      "pages": ["additions/additions"]
+    },
   ],
   "footerSocials": {
     "globe": "https://webworksstudios.tech",
