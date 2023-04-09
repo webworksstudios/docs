@@ -52,10 +52,8 @@
     }
   ],
   "footerSocials": {
-    "globe": "https://webworksstudios.tech",
+    "website": "https://webworksstudios.tech",
     "github": "https://github.com/webworksstudios"
   },
-  "backgroundImage": {
-    "url": "images/gradientBackground.png"
-  }
+  "backgroundImage": "url": "images/gradientBackground.png"
 }
