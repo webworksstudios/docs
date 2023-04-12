@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "WebWorks Studios",
   "logo": {
-    "dark": "https://webworksstudios.tech/ircd.png",
-    "light": "https://webworksstudios.tech/ircd.png"
+    "dark": "favicon.png",
+    "light": "favicon.png"
   },
-  "favicon": "https://webworksstudios.tech/ircd.png",
+  "favicon": "favicon.png",
   "colors": {
     "primary": "#0069ED",
     "light": "#4D9CFF",
