@@ -48,7 +48,7 @@
     },
     {
       "group": "Adding and Editing",
-      "pages": ["additions/adding", "additions/editing.mdx"]
+      "pages": ["additions/adding", "additions/editing"]
     }
   ],
   "footerSocials": {
